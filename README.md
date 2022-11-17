@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhushanpagare054
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development,wordpress sites development.
 - 🌱 I’m currently learning HTML,CSS,JS,JAVA,PHP,MYSQL,ANDROID DEVELOPMENT,GAME DEVELOPMENT,POWER BI DEVELOPMENT ETC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
